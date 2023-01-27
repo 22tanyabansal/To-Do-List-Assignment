@@ -1,0 +1,14 @@
+body {
+    background-image: url('https://img.freepik.com/premium-photo/digital-cyberspace-data-network-connections_24070-1044.jpg?w=2000');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    scroll-behavior: smooth;
+}
+.taskBg div {
+    display: flex;
+    align-items: center;
+}
+
+.taskBg .done .taskText {
+    text-decoration: line-through;
+    text-decoration-thickness: 2px;
